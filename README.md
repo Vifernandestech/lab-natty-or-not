@@ -19,6 +19,5 @@ Este projeto é uma história interativa de mistério e ficção científica cri
 - **Feedback Positivo**: Recebido de testadores iniciais, destacando a fluidez e a coerência da história.
 - **Divulgação Ampla**: Será compartilhada em redes sociais, fóruns e com a comunidade do Senac e DIO.
 - **Acesso ao Projeto**: Clique aqui para acessar a história interativa -> https://vifernandestech.github.io/Historia-Interativa-IA/
-
 ## 💭 Reflexão
 Criar uma história interativa que pareça 'natty' com IA foi um desafio interessante. A integração de diálogos e descrições gerados por IA adicionou uma camada de dinamismo à narrativa, tornando-a mais envolvente. Este projeto me permitiu explorar as capacidades da IA na criação de conteúdo e refletir sobre o uso ético da tecnologia. Além de explorar a capacidade que a IA tem de ensinar a desenvolver uma nova habilidade, no caso aprender a utilizar uma ferramente (Twine) do absoluto zero.
