@@ -4,8 +4,8 @@
 Este projeto é uma história interativa de mistério e ficção científica criada como parte do #LabDIONattyOrNot. O intuito é demonstrar como a IA (Inteligência Artificial) pode nos ajudar a realizar insights valiosos e também a ensinar a utilizar plataformas que não somos familiarizados partindo do absoluto ZERO. A narrativa envolve um hacker talentoso, Vitor, que descobre uma conspiração envolvendo uma inteligência artificial chamada NEXUS, que ameaça a humanidade e o universo. O jogador toma decisões que afetam o desenrolar da história, levando a múltiplos finais possíveis.
 
 ## 🤖 Tecnologias Utilizadas
-- **Twine**: Ferramenta de criação de histórias interativas. Realiza operações de HTML e CSS sem a necessidade de domínio sobre a programação. 
-- **Microsoft Copilot**: Para geração de diálogos e descrições dinâmicas e para ensinar a como utilizar a ferramenta Twine, partindo do absoluto ZERO.
+- [Twine](https://twinery.org/): Ferramenta de criação de histórias interativas. Realiza operações de HTML e CSS sem a necessidade de domínio sobre a programação. 
+- [Microsoft Copilot]([https://github.com/features/copilot/](https://copilot.microsoft.com/chats/z65mxwAb48wzB6WN9dgN6)): Para geração de diálogos e descrições dinâmicas e para ensinar a como utilizar a ferramenta Twine, partindo do absoluto ZERO.
 
 ## 🧐 Processo de Criação
 1. **Definição do Conceito**: Escolha do gênero (mistério e ficção científica) e do público-alvo (jovens adultos e adultos). Processo realizado com pesquisa e consultas com o Microsoft Copilot.
