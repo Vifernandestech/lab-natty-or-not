@@ -5,7 +5,7 @@ Este projeto é uma história interativa de mistério e ficção científica cri
 
 ## 🤖 Tecnologias Utilizadas
 - [Twine](https://twinery.org/): Ferramenta de criação de histórias interativas. Realiza operações de HTML e CSS sem a necessidade de domínio sobre a programação. 
-- [Microsoft Copilot]([https://github.com/features/copilot/](https://copilot.microsoft.com/chats/z65mxwAb48wzB6WN9dgN6): Para geração de diálogos e descrições dinâmicas e para ensinar a como utilizar a ferramenta Twine, partindo do absoluto ZERO.
+- [Microsoft Copilot](https://copilot.microsoft.com/chats/z65mxwAb48wzB6WN9dgN6): Para geração de diálogos e descrições dinâmicas e para ensinar a como utilizar a ferramenta Twine, partindo do absoluto ZERO.
 
 ## 🧐 Processo de Criação
 1. **Definição do Conceito**: Escolha do gênero (mistério e ficção científica) e do público-alvo (jovens adultos e adultos). Processo realizado com pesquisa e consultas com o Microsoft Copilot.
